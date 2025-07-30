@@ -1,0 +1,12 @@
+/home/cerimice/Escritorio/clases/2025-C2/poo/3C/proyectos/pruebaSwing04/src/main/java/org/upemor/pruebaswing04/PruebaSwing04.java
+/home/cerimice/Escritorio/clases/2025-C2/poo/3C/proyectos/pruebaSwing04/src/main/java/org/upemor/pruebaswing04/controller/Controller.java
+/home/cerimice/Escritorio/clases/2025-C2/poo/3C/proyectos/pruebaSwing04/src/main/java/org/upemor/pruebaswing04/controller/ControllerTipoUsuario.java
+/home/cerimice/Escritorio/clases/2025-C2/poo/3C/proyectos/pruebaSwing04/src/main/java/org/upemor/pruebaswing04/controller/ControllerUsuario.java
+/home/cerimice/Escritorio/clases/2025-C2/poo/3C/proyectos/pruebaSwing04/src/main/java/org/upemor/pruebaswing04/model/entity/Entity.java
+/home/cerimice/Escritorio/clases/2025-C2/poo/3C/proyectos/pruebaSwing04/src/main/java/org/upemor/pruebaswing04/model/entity/TipoUsuario.java
+/home/cerimice/Escritorio/clases/2025-C2/poo/3C/proyectos/pruebaSwing04/src/main/java/org/upemor/pruebaswing04/model/entity/Usuario.java
+/home/cerimice/Escritorio/clases/2025-C2/poo/3C/proyectos/pruebaSwing04/src/main/java/org/upemor/pruebaswing04/model/repository/MiConexion.java
+/home/cerimice/Escritorio/clases/2025-C2/poo/3C/proyectos/pruebaSwing04/src/main/java/org/upemor/pruebaswing04/model/repository/Repository.java
+/home/cerimice/Escritorio/clases/2025-C2/poo/3C/proyectos/pruebaSwing04/src/main/java/org/upemor/pruebaswing04/model/repository/RepositoryTipoUsuario.java
+/home/cerimice/Escritorio/clases/2025-C2/poo/3C/proyectos/pruebaSwing04/src/main/java/org/upemor/pruebaswing04/model/repository/RepositoryUsuario.java
+/home/cerimice/Escritorio/clases/2025-C2/poo/3C/proyectos/pruebaSwing04/src/main/java/org/upemor/pruebaswing04/view/PrincipalDlg.java

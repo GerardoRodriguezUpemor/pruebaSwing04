@@ -1,0 +1,12 @@
+org/upemor/pruebaswing04/controller/Controller.class
+org/upemor/pruebaswing04/model/repository/Repository.class
+org/upemor/pruebaswing04/model/repository/RepositoryUsuario.class
+org/upemor/pruebaswing04/PruebaSwing04.class
+org/upemor/pruebaswing04/controller/ControllerUsuario.class
+org/upemor/pruebaswing04/model/entity/TipoUsuario.class
+org/upemor/pruebaswing04/model/repository/MiConexion.class
+org/upemor/pruebaswing04/controller/ControllerTipoUsuario.class
+org/upemor/pruebaswing04/model/entity/Entity.class
+org/upemor/pruebaswing04/model/repository/RepositoryTipoUsuario.class
+org/upemor/pruebaswing04/view/PrincipalDlg.class
+org/upemor/pruebaswing04/model/entity/Usuario.class
